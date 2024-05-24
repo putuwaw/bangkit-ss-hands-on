@@ -27,4 +27,4 @@ model.fit(X_train, y_train, epochs=25, batch_size=5, validation_split=0.1, verbo
 loss, accuracy = model.evaluate(X_test, y_test, verbose=0)
 print(f'Test accuracy: {accuracy:.4f}')
 
-model.save('iris.keras')
+model.save('model/iris.keras')
