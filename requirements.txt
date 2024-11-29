@@ -29,7 +29,7 @@ optree==0.11.0
 packaging==24.0
 protobuf==4.25.3
 Pygments==2.18.0
-requests==2.32.2
+requests==2.32.3
 rich==13.7.1
 scikit-learn==1.5.0
 scipy==1.13.1
